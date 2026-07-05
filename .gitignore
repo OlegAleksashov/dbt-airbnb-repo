@@ -15,3 +15,5 @@ airbnb/dbt_internal_packages/
 set-env.sh
 set-env.ps1
 
+.idea
+
